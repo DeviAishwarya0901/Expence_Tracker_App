@@ -21,7 +21,7 @@
   
   *Open browser and visit:
   
-  http://localhost:8501
+   http://localhost:8501
 
    *HOW TO USE
    
